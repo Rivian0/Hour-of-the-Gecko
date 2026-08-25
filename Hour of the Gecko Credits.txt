@@ -1,0 +1,483 @@
+Map Sprites
+Villager by Hypergammaspaces
+Sword Lance Cav by Leo Link
+Recruit by Waleed
+Villagers by HyperGammeSpaces
+Fighter M FE10 by Pikmin1211
+Fighter F FE10 by L95
+Improved Archer by DerTheVaporeon
+Hunter by MeatOfJustice
+Deserter by Alusq
+Soldier F by Rexacuse, Peerless, Alusq, WarPath
+Improved Mercenary by flasuban
+Dragoon by Pikmin1211, Unknown
+Halberdier (2.0) by TBA
+Assassin (F) by RobertFPY
+Hero (Gerik-Style) by Nuramon
+Dread Fighters by Nuramon
+Executioner by Huichelaar, IS, Lexou
+Trickster by StreetHero, Blood
+Supplier by MN426 Lance
+Roy by Jeorge Reds
+Shaman (F) Moving by CanDy and Hanakko
+Occultist) by Devisian_Nights, Pikmin1211
+Thaumaturge by Pikmin1211, DerTheVaporeon
+War Monk Axe by DerTheVaporeon
+Knights by SALVAGED
+Cavaliers by SALVAGED
+Bow Knight by DerTheVaporeon, Pikmin1211
+Paladin (F) (Revision) Lance Moving by flasuban, Tordo45.png
+Paladin (F) by flasuban, Tordo45
+Paladin (M] by Pikmin1211.png
+Gold Knight by Pikmin1211, DerTheVaporeon
+King by Elibian Nights, L95, Pikmin1211, DerTheVaporeon, Huichelaa
+Pegasus Knights by Flasuban
+Wyvern Rider by Flasuban
+Armored Wyvern Lord by SHYUTERz
+Armored Wyvern Lord (U) Lance Standing by SHYUTERz.png
+Magic Fliers by Ayr
+Wyvern Knight Axe  by ArcaneEli, Blood, Yikes!
+Seraph Knight Lance by CamusZekeSirius, flasuban
+Wyvern Lord by Flasuban
+Crates by PrimeFusion
+Airship by 7743, FF3
+Iaijutsu Swordmaster by Gabriel Knight, Jj09
+Warrior by Pushwall, FEGirls
+Cyclops Ronin by Alexsplode
+Esper Knight by Meatofjustice
+Eliwood Mage by TyTheBub
+War Druid by Skidmarc
+Ephraim Great Lord by Snewping
+Hunter by Knabepicer and NightBloodKT
+Chieftain by Levin
+Skirmisher by SALVAGED
+Gladiator by L95
+Sniper by Archerbias
+Necromancer by Unknown
+Tactician by SALVAGED
+Great Lord Hector by Topazlight
+Mage apprentice by BBHood217
+Wolf Riders by Zoramine
+Cuthroat by Cynon
+Brigand by Flasuban
+Brigand by SKitty
+Cleric by Tdim
+Assassin by RobertFPY
+Halberdier Amelia by blood, Dei, dondon151
+Sergeant F by Spud, Dora Drago
+Great Knight F by Blood
+Bow General by Epicer
+Barons by Nuramon, Topazknight, Itsjustjay
+Ballista by Der
+Dead Villager by Eldritch Abomination
+Dead Villager by Tythebub
+Dead Villager by Rivian
+Marauder by LonkFC
+Wolf Knight by JaidynReiman, VelvetKitsune, Leif
+Sniper F by ArcherBias, MeteorSR23
+Totem by Card
+Crate by Topazlight
+Log by Laurentlacroix
+Gunner by Basilica
+Gunner by Obsidian and Bandanasplitz
+Goop Revenant by Ryn
+Horse by L95
+Pegasus by N426
+Axe Lyn by Vilkalizer, Morth
+Priestess Celica by Blood
+Eirika Repalette + Magic by Teraspark
+Eirika Priestess by Red Bean, Jeorge_Reds, EA, Ultrablade, 7743
+Magic Dragon by L95
+Rogue by Celestiaheart
+Dismounted sword/axe by Archerbias
+Light Mage by L95
+Blade Lord Exalt by FE7if, Jiege
+Gunslinger based off work by Aruka Kenpuhu
+Resized monsters by Pikmin
+Cleric by VelvetKitsune
+Generic Lord by Leif, admrl765
+Earth Dragon by L95
+Mage Awakening by Blood
+Vanguard by Nuramon
+
+Class Cards
+Villager by Ghast, HyperGammaSpaces
+Myrmidon and Swordmaster F by L95
+Tent by Laurent
+Brigand F by ltranc, Jj09, HyperGammaSpaces
+Berserker Hawkzerker Axe by Der
+Fighter by Flasuban, Pikmin, Jj09
+Warrior F by Lumi
+Archer by Der
+Hunter by Spud, Jj09
+Sniper by Spud
+Ballistician by Arch
+Soldier by Flasuban
+Lancer by SALVAGED
+Militia by Rasdel, Epicer
+Halberdier by TBA, Yellowtoad
+Sergeants by Spud, Rasdel, Pushwall
+Halberdier by Kenpuhu
+Mercenary by L95
+Thug by Rasdel
+Trickster by Jj09, Scraiza, Sword of HaE
+Trickster by Jj09, Scraiza, Sword of HaE, SableMage
+Knights by SALVAGED 
+General Shield by Topazlight, SamirPlayz, Flasuban
+Dark Mage Jj09
+Druid F by L95
+War Monk by Der
+Tactician by SALVAGED
+Cleric by flasuban, HyperGammaSpaces
+Sage F by L95, HyperGammaSpaces
+Sage by L95
+Assassin by L95, Jey the Count
+Mage Rider by Der
+Cavalier by SALVAGED
+Cavalier F by Flasuban, RobertFPY
+Nomad F by Jey the Count
+Great Knight by Flasuban
+Paladin by Flasuban
+Paladin by Shtick, SALVAGED
+Wyvern Lord by Flasuban
+Falco by Flasuban and Arcane Eli
+Wyvern Rider by Flasuban
+Pegasus by Flasuban
+MD Tank by Tera
+Fighter by Alusq
+Crate by Laurentlacroix
+Log by Laurentlacroix
+Horse by L95
+Monster resizes by Pikmin
+Phantom resize by Pushwall
+Lich by Eldritch Abomination and Skidmarc
+Bear by AVerySheepGamer
+Symphone by DATonDemand, Tanakakiri
+
+Animations
+Villagers by Nuramon
+Mercenary by SALVAGED, Jey the Count, Pushwall
+Hero by Nuramon
+Swordmaster by Greentea, RobertFPY, ltranc, Seliost1
+Swordmaster by Greentea, ltranc
+Myrmidon by Leo_link, Tsushi, Iscaneus
+Myrmidon F Ponytail by Leo_link, UltraFenix
+Thug by Monkeybard
+Thief Repal by Pikmin1211, Maiser6, Skitty, GabrielKnight
+Brigand by eCut, Skitty, Itranc
+Brigand by Flasuban and Ultrafenix
+Pirate by Der
+Hawkeye by Orihara_Saki, ZoramineFae, ltranc
+Fighters by MK404 and Pikmin
+Warrior by Pushwall and Temp
+Hunter by Spud
+Archer by Der
+Royal Snipers by Meteor
+Adventurer by Nuramon
+Sergeant by Spud, Leolink, Iscaneous, Nuramon, Dora Drago
+Dragoon by Maiser6, Pikmin, Mercenary Lord and NYZGamer
+Halberdier by TheBlindArcher, Spud, MeatofJustice, Blackmage
+Lancer by SALVAGED
+Militia by Alusq
+Soldier by Alusq
+Tactician by SALVAGED
+Occultist by Devvy
+Necromancer by Eldritch Abomination
+Clerics by Flasuban, Eldritch Abomination
+War Monk by Der
+Sage by Levin64, HyperGammaSpaces, Nuramon
+Sage by Levin64
+Cavaliers by SALVAGED
+Nomad by eCut, Pikmin1211 and Maiser6
+Paladin by Leo_link, Pikmin1211, Team SALVAGED, The_Big_Dededester
+Paladin by SALVAGED, Leo_link, Flasuban. Axe Fix by The_Big_Dededester
+GK by Skitty, DatonDemand 
+Nomad Trooper by Pikmin1211, Maiser6, Itranc, Valak
+Nomad Trooper by Levin64
+Mage Rider by Pikmin1211, Der, Datondemand
+Valkyrie by Brober, Plant Academy, Teraspark, Seergiioo
+Ranger by Fiuke Bnuy, Nuramon, Greentea
+Wolf RidersUpdated design and animation by Datondemand
+Wolf Knight by Datondemand, VelvetKitsune, ZoramineFae, Leo_link, Sable Mage
+Sword dancer by Circleseverywhere, Sirknite031
+Mage lord by Tythebub
+Dark Knight by Jj09, Leo_Link, DerTheVaporeon, flashuban
+Lance Cavalier by Leo_Link, DerTheVaporeon, Pikmin1211, Team SALVAGED, Jj09, UltraxBlade.
+Sword Cavalier by Leo's Sword Cavalier, Pushwall
+Pupil by Rubenio and Blazer 
+Nephilim and Harrier by Ayr
+Pegasi by Flasuban
+Flasuban by eCut
+Wyvern Lord by Nuramon
+Fellbeast Knight by Animation by Nuramon, RRSKAI
+Leo_link, Nuramon, Iscaneus, The_Big_Dededester
+Armor by SALVAGED 
+Baron by Leo_link, Nuramon, Iscaneus, The_Big_Dededester, Sax Marine
+Assassin by Keks_Krebs, Beccarte, SD9K
+Executioner by Huichelaar
+Gold Knight by Nuramon, HyperGammaSpaces 
+Mounted Brigand  by Spud.
+Ephraim Heavy Infantry by Nuramon 
+Elfin magic by Black Mage, Temp, Wan
+Sonneteer by marlon0024, ZoramineFae 
+Mage Fighter by Obsidian Daddy, StrudelMuffin, Maximus03, Card, Leo_Link, Feier, Luminescent Blade
+Wood Shooter by Scubaluigi, Spud
+Fighter Long Hair V2 by BlackMage, SageHapuiaJDJ, Itranc
+Maiden by Sirknite031
+Living Doll by Datondemand
+Blast golem by alexsplode
+Banshee by Spheal
+Revenant by SaintRubenio
+Gore by Alexsplode
+Ballistician by Greentea
+Phantom by TBA
+Lich by Skidmarc
+Bear by GratedShtick
+Ephraim repack by Zoramine
+Mareeta Swordmaster by Redbean, Jj09, Ultrafenix
+Baellista by Datondemand
+Magic Dragon by L95
+F Hector by FE7if team
+Malig Knight by Leo_Link, jj09, Sphealnuke, DatonDemand
+Eirika T2 by Redbean
+Troubadour by BatimaTheBat, EldritchAbomination, TBA, Pikmin1211, Leo_Link, UltraFenix
+Valkyrie by Leo_Link, GabrielKnight, Aruka, UltraFenix
+Gaiden Priestess by Gamma
+Light Mage by L95, Leo Link, Flasuban
+Symphone by DATonDemand
+Gunslinger by Velvetkitsune
+Mage Hat by Retrogamer
+Vanguard by Nuramon and Seliost1
+
+Spell Animations
+Pavise Animation by Mikey Seregon
+Parthia by 7743
+Sagittae by Hypergammaspaces
+Javelin Rain by Scraiza
+Frostbite by Strudelmuffin, Alusq
+Flame Sweep by Scraiza
+Arcthunder by Bwdyeti
+Thoron by Mikey Seregon
+Wind by George Reds, Alice
+Shaver by Mikey Seregon
+Arcwind by Mikey Seregon, 7743
+Meteor by Blazer, Jubby
+
+
+ASM
+16 tracks 12 sounds by Agro and Brendo
+1RNMode by Pikmin 
+Switch character ending's title name in ending with flag by 7743
+Switch character ending's text in ending with flag by 7743
+Dynamically change the palette of allegiance by Vesly
+Allow 254 generic minimugs by Gryz
+AnimNumbers Damage pop-up in battle by Huichelaar
+AoE by Vesly
+Add Event: Call the store from event by 7743
+AutoGenLeftOAM Reduce capacity by dynamically creating LeftToRightOAM by 7743
+Auto save function vesly's custom by Vesly, 7743, Aera, FE8 Girls
+Battle Forecast Fix by Contro
+Enable battle animation of berserk unit.
+Berserk Unit Battle Animation by laqieer
+CasualMode(Ver Flag 0xB0) by circleseverywhere, Vesly
+Fix CG Fade Glitch by 7743
+Switch Portrait images by class, chapter, flag by Scraiza
+Switch Unit's description by class, chapter, flag by 7743
+Convert Chapter Titles to Text_ver2.1 by circleseverywhere, 7743, Hypergammaspaces
+Continue Battle BGM Between Map and Combat by 7743 
+CritCap by Contro
+CSA Creator ver2 by Circleseverywhere
+fix_lz77decompress by Tequila
+Add Event: Get the number of units matching a specific condition by 7743
+Group AI by Vesly
+Group AI Fix by Retina
+HPBars with warnings by Circles
+Special Event for each Item by Vesly
+m4a hq mixer by ipatix
+Magic Sword Rework by Sme
+Menu Window Width by Kirb
+Fixed canto glitch by 7743
+Exceed The Portrait Hackbox By 4 Tiles by tiki 
+Narrow Font by Scraiza
+Make NPC (ally) as the third power by 7743
+Expanded the setting of the ring effect used by dancers by 7743
+Simple setting of Sacred Weapons 2 by 7743
+Show Heal Amount by Tequila
+Melee/Ranged Different - Spell Loader by kao
+Stairs by Snakey1
+Faster Level Ups by Tequila 
+Allow Forced Units to change their Starting Position by AuraWolf
+Allows non-valuable items with infinite durability to be sold for 0 gold by 7743
+Allow Visit from any tile by circleseverywhere, Hypergammaspaces
+Prevent Freeze For Events by 7743
+You can enter the secret store without member card by 7743
+Faster status screen by Contro 
+Fix coordinate loading in WARP codes when not loading from slot B by HyperGammaSpaces
+Fixed bug where SetName crashes with odd bytes by 7743
+Fixed sound of Aircalibur from aera's data
+Fixed the display of large level-up screens by Tequila
+Prevent Healer Mistarget by Magrika is Now Canon
+Fix_GenerateBestMovementScript Move Glitch by 7743 
+Make goal window text slightly longer by Vesly
+Monster Weapon display fix by Brendor 
+Prevent uncounterable items from becoming forced range animations by Vennou
+Remove a and an from Got Item Popup by 7743
+Remove the delay at the start of map battle to speed it up by 7743
+Remove the delay until background is displayed when battle animation starts by 7743
+Remove R text on the save screen by Snek 
+Remove the Round delay in map battle to speed it up by 7743
+Speed up by omitting a battle bg fadein at battle start  by 7743
+Limitless Trading by aera
+Extend Item Icon List Length by aera
+Extended Moving Map Animation List by Icecube 
+Set Preparations Store Pricing by aera
+Thracia Rescue Trading AKA Infinite Give and Take by MintX 
+Weapon LV up when destroyed by FE8Girls Chap
+Special Event for each unit by 7743
+UnitActionRework by Stan
+EventWriter by Circleseverywhere
+Get the number of Count number of units in a specific range by 7743, Shuusuke
+Get/Set Unit Status
+Split Menu by Stan, circleseverywhere 
+Add/Remove Trap by 7743
+Add Event: Autolevel Player Unit by Shuusuke and Vesly 
+Add Event: Change Edition by 7743
+Change AI of unit or class at once by 7743
+Change unit / class affiliation at once by 7743
+Add Event: Lose Gold by 7743
+Add Event Condition: Item Check by 7743
+Lose Item by 7743
+GetDeathUnitCoord by 7743, Leonarth
+GetKillerUnitID by Leonarth
+Get random number in specified range by 7743
+GetTargetCoords, GetTargetUnitID by Vesly 
+Death to Player Unit by 7743
+Convert memory slot value to string by 7743
+ASMC_RecoverAll by 7743
+Instantaneously moving a unit at a specific coordinate to another coordinate by 7743
+Send unit's all items to transporter by 7743
+Show BrokenWall Effect by 7743
+Silent Give item or gold by 7743
+Show emotion bubble on map by 7743, Kenpuku
+Simple Escape event that can be easily created by 7743 , Aera
+Write clear turn number in event by 7743
+FE7 style Thunder EventThunderfx by Mokha 
+UNCM by Tequila
+FE7J style Red Fog QuintessenceEffect by Eebit 
+ExtendWeaponDescBox by Vesly 
+Set individual heal staff amount by 7743
+Disable Prep Armory in chapters by 7743
+Add Event: Tile Change
+Change Tile Name by 7743
+Flag27 green Shall not pass by Ultrablade
+Deny Deployment From Preparations by Aera, 7743, FE8 kesseki patch
+Switch the preparation shop for each chapter by 7743
+Actions After Talk (Contemporary Style) by 7743 
+Effectiveness damage coefficient of the weapon by 7743
+Negate Defence by Vesly
+Add Event: Display and recover the effect when using the item by 7743
+Prevent Attack by Vesly
+Multi TileMarker Display by 7743
+Battle BGM Customiser by ditto 
+Flag 27 Green Unit danger radius by Ultraxblade
+Use magic motion when physical attack hits by 7743
+Prevent Trade by Vesly
+Allow fast-forwarding of battle animations with the R button by 7743
+Base Map by Aera, Epicer 
+Multiple Vulnerary by 7743
+Icon Display by Vesly 
+Guide Event by Shinan
+Dynamic Text Swap by Epicer
+Item use text displays based on if it’s a weapon by Ditto
+Add Event: GetGameOption,SetGameOption by 7743
+Disable Player Select with stationary AI by flag by Ultra
+Added a game option that staff and dances do not display anime by 7743
+Get Distance by Snakey1
+Auraskillbuffer by Contro and installed with very significant help from Ultrablade 
+Switch Portraits by Scraiza
+New Numbers by Contro
+Modular Minimug by ZaneAvernathy
+Make MMB Colour Uniform by Epicer
+
+Icons
+Affinities by Venno
+Time affinity by Topazlight
+Crossbows by Batima, Valak, Gabrielknight 
+Ballista by Batima, Zarg, Seal
+Tomes by Lord Glenn
+Tomes by Gabriel Knight
+Bone, Goat Food by Zarg, Rootrick (Secret of Evermore)
+Food by Batima, MeatofJustice, Mike, Rootrick, Zarg, SMITHGCN, Gabrielknight, EldritchAbomination, serebii01 (Tactics Ogre LUCT) 
+Musket by Feier 
+Scoll by Batima
+Various Guns, Log, Paper by EldritchAbomination, serebii01 (Tactics Ogre LUCT) 
+Gunblade by Fenrier
+Carrot by N426
+Swords, Lances, Axes, Bows, Tomes and Staves by Gabrielknight 
+Lance by Zelix, 2WB, Velvetkitsune
+Claw by Zelix
+Fang by Tactics Ogre LUCT, EldritchAbomination, serebii01
+Bear by Cardcafe 
+Music Sheet by XVI
+
+Portrait
+Berry by Dutch Introvert
+
+
+Tileset
+FFV Cave by Wave
+FFII Cave by Wave
+Village Tileset by N426, Flasuban, ZoramineFae, Venno (Utilising parts from Wave, N426)
+Village Night Palette by Epicer 
+Metro by Cynon
+Metro Palette by ATLAS
+Stronghold Updated by N426
+Stronghold Palette by ATLAS
+Desert Bastion by Zoramine, Hypergammaspaces, N426, Venno
+
+Music(Map)
+Castlevania Order of Ecclesia - An Empty Tome - Psyche
+Castlevania Order of Ecclesia - Sapphire Elegy - Psyche
+
+Castlevania Order of Ecclesia - Clashing of Waves - Trikki Nikki
+Castlevania Order of Ecclesia - Rhapsody of the Forsaken - Trikki Nikki
+
+Castlevania Order of Ecclesia - Ebony Wings - Trikki Nikki
+Castlevania Dawn of Sorrow - The Pinnacle - Trikki Nikki
+
+Castlevania Order of Ecclesia - Tower of dolls - Psyche
+Castlevania Dawn of Sorrow - Cursed Clock Tower - Trikki Nikki
+
+Castlevania Order of Ecclesia - Welcome to Legend - Psyche
+Langrisser 2 - Egbert - Alusq
+
+Lok's Quest - War Torn - Trikki Nikki
+Lok's Quest - War Machine - Trikki Nikki
+Lok's Quest - Hearthern - Trikki Nikki
+
+Onimusha Tactics - Battle 4 - Hunter Azuro
+Onimusha Tactics - Preparation - Hunter Azuro
+Onimusha Tactics - Bloodshed - Hunter Azuro
+
+
+Music(Events)
+Clad in Iron - Randomwizard
+Enemy Champion - Randomwizard
+Rain and Night - Randomwizard
+Reprisal - Randomwizard
+Stike Them Down - Randomwizard
+Rage is in the Air - Randomwizard
+Tale of Symphonia - Ossa trail - Pandan
+Live a live - Fine Weather - Pandan
+Wizardry 3 - Adventurer's Inn - Pandan
+Shenmue - Nightfall - Pandan
+Etrian Odyssey 3 - Chalky Woods - Thegis
+Etrian Odyssey - Forbidden Forest - Alusq
+Etrian Odyssey 2 - Heaven's Rock Seat - Alusq
+Etrian Odyssey 2 - Cavern of Splendor - Alusq
+Lock's Quest - Knights - Falkion2040
+Castlevania Order of Ecclesia - Jaws of a Scorched Earth - Crescent Moon
+
+
+
+
