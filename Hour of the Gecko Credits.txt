@@ -1,3 +1,31 @@
+UI
+Status Screen, Battle Screen by Luminescent Blade
+
+Portrait
+Gecko, Reiker, Raylin, Rosebriar, Willow, Rosetta, Cyquin, Daygon, Prince, Sequoia, Xeo, Ansleth, Kivutar, Liutgarde by Levin
+Chalice, Needle, Nighthound, Warinhari, Virasena, Harbinger, Piers, Eudemia, Farin, Bowman, Quince, Maurice, Tasel by Stitch
+Kestrel, Starling and Deorhart by Basilica
+Muoxing, Dazzledart by Luminescent Blade
+Maevyn and Sidvyn by Tezuka
+Mince by Levin, Mournfulrelic
+Lindros by Vlak, Mournfulrelic
+Guildmaster, Vickery, Ridley, Ainsley, Doomsday, Shirmey, Big Raven, Bracken, Crow Chief, Elysant, Hawise, The Ox, Iolo, Konijn, Lengy, Raud, Salagast, Young Red, Tressa, Bracken by Jiropaipai
+Imbe, Ironhand by Zelkami
+Celandine by Squidaccus, Atelierlabs
+Findley by Zelkami, Aeroponce
+Lantern Lord by Plant Academy
+Helias by NickT, Atelierlabs
+Lord Heron by Wave
+Lord Shrike by Wave, Yasako
+Mathilde by Alanzo
+Old Otti by Feier
+Sibrand by Cygnus
+Sieffre, Freydis, Elduin by Rasta
+Solder by Squidaccus
+Anno, The Lynx by Randomwizard
+Rowson by XVI
+Berry by Dutch Introvert
+
 Map Sprites
 Villager by Hypergammaspaces
 Sword Lance Cav by Leo Link
@@ -262,7 +290,8 @@ Wind by George Reds, Alice
 Shaver by Mikey Seregon
 Arcwind by Mikey Seregon, 7743
 Meteor by Blazer, Jubby
-
+Judgment Cuts by Seliost1
+Map Dark Shards by Victor Hahn, Mach
 
 ASM
 16 tracks 12 sounds by Agro and Brendo
@@ -409,7 +438,7 @@ Tomes by Gabriel Knight
 Bone, Goat Food by Zarg, Rootrick (Secret of Evermore)
 Food by Batima, MeatofJustice, Mike, Rootrick, Zarg, SMITHGCN, Gabrielknight, EldritchAbomination, serebii01 (Tactics Ogre LUCT) 
 Musket by Feier 
-Scoll by Batima
+Scroll by Batima
 Various Guns, Log, Paper by EldritchAbomination, serebii01 (Tactics Ogre LUCT) 
 Gunblade by Fenrier
 Carrot by N426
@@ -419,10 +448,11 @@ Claw by Zelix
 Fang by Tactics Ogre LUCT, EldritchAbomination, serebii01
 Bear by Cardcafe 
 Music Sheet by XVI
+Laguz Slayer by Lord Glenn
 
-Portrait
-Berry by Dutch Introvert
-
+Backgrounds
+Cave by Wave
+FF Backgrounds by 7743
 
 Tileset
 FFV Cave by Wave
@@ -455,7 +485,7 @@ Lok's Quest - War Torn - Trikki Nikki
 Lok's Quest - War Machine - Trikki Nikki
 Lok's Quest - Hearthern - Trikki Nikki
 
-Onimusha Tactics - Battle 4 - Hunter Azuro
+Onimusha Tactics - Battle 4 - Hunter Azuro, Levin
 Onimusha Tactics - Preparation - Hunter Azuro
 Onimusha Tactics - Bloodshed - Hunter Azuro
 
